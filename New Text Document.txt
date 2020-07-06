@@ -1,1 +1,1 @@
-hi demo test
+hi demo wcf
